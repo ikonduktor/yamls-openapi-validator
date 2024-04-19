@@ -1,6 +1,6 @@
 {
     "name": "yml-merge-tool",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "yml-merge-tool which can merge yml files",
     "main": "index.js",
     "scripts": {
