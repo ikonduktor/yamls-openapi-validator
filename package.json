@@ -1,0 +1,29 @@
+{
+    "name": "yml-merge-tool",
+    "version": "1.0.3",
+    "description": "yml-merge-tool which can merge yml files",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ikonduktor/yml-merge-tool.git"
+    },
+    "keywords": [
+        "express",
+        "openapi",
+        "validator",
+        "yml",
+        "multiple"
+    ],
+    "author": "r.safonow@gmail.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ikonduktor/yml-merge-tool/issues"
+    },
+    "homepage": "https://github.com/ikonduktor/yml-merge-tool#readme",
+    "dependencies": {
+        "yaml": "^2.4.1"
+    }
+}
